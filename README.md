@@ -1,2 +1,5 @@
-# icy_tower
-openGL with python (new version of game icy tower)
+# Icy_Tower
+game ice tower with python 
+
+click "space" to start the game  
+click "space" to start again after game over
